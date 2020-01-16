@@ -1,8 +1,8 @@
 package DP;
 
 /*
-    Problem Link : https://leetcode.com/problems/longest-common-subsequence
-    Solution Link : https://leetcode.com/submissions/detail/287881657/
+    Problem Link : https://leetcode.com/problems/longest-palindromic-subsequence/
+    Solution Link : https://leetcode.com/submissions/detail/294420142/
 */
 
 public class LongestPalidromeSubSeq {
